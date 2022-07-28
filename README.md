@@ -1,2 +1,2 @@
 # Army-WebStudy
-A way to practice both webmaking and Army knowledge
+A way to practice both Web-making and Army-knowledge
