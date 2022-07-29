@@ -1,0 +1,13 @@
+html {
+  background-color: bisque;
+}
+
+.title {
+  text-align: center;
+}
+
+.contents {
+  border: 2px solid black;
+  max-width: fit-content;
+  margin-top: 1%;
+}
