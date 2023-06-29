@@ -1,0 +1,976 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Offense and Defense</title>
+    <link rel="stylesheet" href="..//css/webpages_outline.css" />
+  </head>
+
+  <!--Heading Stuff-->
+  <header>
+    <h1 class="title">Offense and Defense (ADRP 3-90,ADP 3-90)</h1>
+    <h3 class="title">
+      <a href="..//index.html">Home</a>
+    </h3>
+  </header>
+
+  <!--Info-->
+  <body>
+    <section class="content">
+      <header class="question">Define engagements.</header>
+      <p class="answer">
+        A tactical conflict usually between opposing lower echelon maneuver
+        forces.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define battle.</header>
+      <p class="answer">
+        A set of related engagements that last longer and involves larger forces
+        than an engagement.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define hasty operation.</header>
+      <p class="answer">
+        An operation in which a commander directs immediately available forces
+        using fragmentary orders to perform activities with minimal preparation,
+        trading planning and preparation time for speed of execution.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define deliberate operation.</header>
+      <p class="answer">
+        An operation in which the tactical situation allows the development and
+        coordination of detailed plans.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Name the four primary offensive tasks?</header>
+      <p class="answer">
+        1. Movement to contact <br />
+        2. Attack <br />
+        3. Exploitation <br />
+        4. Pursuit
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Name three purposes of the defense.</header>
+      <p class="answer">
+        1. To create conditions for a counteroffensive <br />
+        2. Retain decisive terrain <br />
+        3. Deny a vital area to the enemy <br />
+        4. To attrition or fix the enemy as a prelude to the offense <br />
+        5. In response to surprise action by the enemy <br />
+        6. Increase the enemy's vulnerability by forcing the enemy to
+        concentrate forces
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">
+        What are the characteristics of the defense?
+      </header>
+      <p class="answer">
+        1. Disruption <br />
+        2. Flexibility <br />
+        3. Mass and concentration <br />
+        4. Preparation and security
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">
+        What are the three basic defensive tasks?
+      </header>
+      <p class="answer">
+        1. Area defense <br />
+        2. Mobile defense <br />
+        3. Retrograde
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What are the three forms of the defense?</header>
+      <p class="answer">
+        1. Defense of a linear obstacle <br />
+        2. Perimeter defense <br />
+        3. Reverse slope defense
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define attack.</header>
+      <p class="answer">
+        An offensive task that destroys or defeats enemy forces, seizes and
+        secures terrain or both.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define tactics.</header>
+      <p class="answer">
+        The employment and ordered arrangement of forces in relation to each
+        other.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What are the operational variables?</header>
+      <p class="answer">
+        1. Political <br />
+        2. Military <br />
+        3. Economic <br />
+        4. Social <br />
+        5. Information <br />
+        6. Infrastructure <br />
+        7. Physical <br />
+        8. Environment <br />
+        9. Time
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define tempo.</header>
+      <p class="answer">
+        The rate of speed and rhythm of military operations over time with
+        respect to the enemy.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What are the three forms of retrograde?</header>
+      <p class="answer">Delay, withdrawal, and retirement.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a delaying operation?</header>
+      <p class="answer">
+        An operation in which a force under pressure trades space for time by
+        slowing down the enemy's movement and inflicting maximum damage on the
+        enemy without in principle becoming decisively engaged.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Defiant exploitation.</header>
+      <p class="answer">
+        An offensive task usually following the conduct of a successful attack
+        designed to disorganize the enemy in depth.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a pursuit?</header>
+      <p class="answer">
+        An offensive task designed to counter cutoff hostile forces attempting
+        to escape with the aim of destroying it.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a withdrawal?</header>
+      <p class="answer">
+        A planned retrograde operation in which a force in contact disengages
+        from an enemy force and moves in a direction away from the enemy.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">
+        What are the three interrelated aspects of the art of tactics?
+      </header>
+      <p class="answer">
+        The creation and flexibility of means to accomplish assigned missions,
+        decision making under conditions of uncertainty when faced with a
+        thinking and adaptive enemy, understanding the effects of combat on
+        soldiers.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is the science of tactics?</header>
+      <p class="answer">
+        The understanding of those military aspects of tactics, capabilities,
+        techniques, and procedures that can be measured and codified.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define operational initiative.</header>
+      <p class="answer">
+        Setting or dictating the terms of action throughout an operation.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define tactics.</header>
+      <p class="answer">
+        The employment and ordered arrangements of forces to each other.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What does tactical victory occur?</header>
+      <p class="answer">
+        The opposing enemy force can no longer achieve its tactical objectives
+        or prevent friendly forces from accomplishing their mission.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is an avenue of approach?</header>
+      <p class="answer">
+        The air or ground route leading to an objective that an attacking force
+        can use.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a flank?</header>
+      <p class="answer">The right or left limit of a unit.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a flanking position?</header>
+      <p class="answer">
+        A geographical location on the flank of a force from which effective
+        fires can be placed on that flank.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a fire team?</header>
+      <p class="answer">A small military unit.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a crew?</header>
+      <p class="answer">A personnel operating a particular system.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a squad?</header>
+      <p class="answer">
+        A small military unit typically containing two or more fire teams.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a section?</header>
+      <p class="answer">
+        An army unit smaller than a platoon and larger than a squad.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a platoon?</header>
+      <p class="answer">
+        A subdivision of a company or troop consisting of two or more squads or
+        sections.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a battalion?</header>
+      <p class="answer">
+        A unit consisting of two or more companies and a headquarters.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a battalion task force?</header>
+      <p class="answer">
+        A maneuver battalion size unit consisting of a battalion headquarters at
+        least one assigned company size element and at least one attached
+        company size element from another maneuver or support unit.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a brigade?</header>
+      <p class="answer">
+        A unit consisting of two or more battalions and a headquarters company
+        or detachment.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a division?</header>
+      <p class="answer">
+        An army echelon of command above brigade and below corps. It is a
+        tactical headquarters which employs a combination of brigade combat
+        teams, multifunctional brigades and functional brigades and lined
+        operations.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is an attack by fire position?</header>
+      <p class="answer">
+        It designates the general position from which a unit conducts a tactical
+        task of attack by fire.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define the line of departure.</header>
+      <p class="answer">
+        A phase line crossed at prescribed time by troops initiating an
+        offensive task.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define objective.</header>
+      <p class="answer">
+        A location on the ground used to orient operations, phase operations,
+        facilitate changes of directions and provide for unity of effort.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a rally point?</header>
+      <p class="answer">
+        An easily identifiable point on the ground at which units can reassemble
+        and reorganize if they become dispersed.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is an objective rally point?</header>
+      <p class="answer">
+        A rally point established of an easily identifiable point on the ground
+        were all elements of the infiltrating unit assemble and prepare to
+        attack the objective.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a support by fire position?</header>
+      <p class="answer">
+        The general position from which a unit conducts a tactical mission, task
+        of support by fire.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a strong point?</header>
+      <p class="answer">
+        A heavily fortified battle position tied to a natural or reinforcing
+        obstacle to create an anchor for the defense which is an either enemy
+        decisive or key terrain.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is final protective fire?</header>
+      <p class="answer">
+        An immediately available pre-planned barrier of fire is designed to
+        impede enemy movement across defensive lines or areas.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a link-up?</header>
+      <p class="answer">
+        A meeting of friendly ground forces, which occurs in a variety of
+        circumstances.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define supplemental reposition.</header>
+      <p class="answer">
+        A defensive position located within a units assigned area of operations
+        that provides the best sectors of fire and defensive terrain along an
+        avenue of approach that is not primary where the enemy is expected to
+        attack.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is the tactical level of war?</header>
+      <p class="answer">
+        The level of war at which battles and engagements are planned and
+        executed to achieve military objectives assigned to tactical units or
+        task forces.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What are the main actions of contact?</header>
+      <p class="answer">
+        A series of combat actions often conducted near simultaneously taken on
+        contact with the enemy to develop the situation.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Name the eight forms of contact.</header>
+      <p class="answer">
+        1. Visual <br />
+        2. Direct <br />
+        3. Indirect <br />
+        4. Non-hostile <br />
+        5. Obstacles <br />
+        6. Aircraft <br />
+        7. Chemical, biological, radiological, and nuclear <br />
+        8. Electronic warfare
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is the main body?</header>
+      <p class="answer">
+        The principal parts of a tactical command or formation. It does not
+        include detached elements of the command such as advance guards, flank
+        guards and covering fires.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">
+        What does doctrine require when applied to a specific situation?
+      </header>
+      <p class="answer">Human judgments.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">
+        What is the key difference between surveillance and reconnaissance?
+      </header>
+      <p class="answer">
+        Surveillance is systemic, usually passive in collection of information
+        and may be continuous. While reconnaissance may be limited in duration
+        of the assigned mission is active in collection of information and
+        usually includes human participation.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define personal recovery.</header>
+      <p class="answer">
+        The sum of military, diplomatic and civil efforts to prevent isolation
+        incidents and to return isolated persons to safety or friendly control.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a decisive engagement?</header>
+      <p class="answer">
+        An engagement in which a unit is considered fully committed and cannot
+        maneuver or extricate itself. In the absence of outside assistance, the
+        action must be fought to a conclusion in either one or lost to the
+        forces at hand.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define defeat in detail.</header>
+      <p class="answer">
+        Concentrating overwhelming combat power against separate parts of forces
+        rather than defeating the entire force at once.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define maneuver.</header>
+      <p class="answer">
+        The employment of forces in the operational area through movement in
+        combination with fires to achieve a position of advantage in respect to
+        the enemy.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a reserve?</header>
+      <p class="answer">
+        The portion of a body of troops which is withheld from action at the
+        beginning of an engagement in order to be available for a decisive
+        movement.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">
+        What are the three primary tasks of a reserve?
+      </header>
+      <p class="answer">
+        1. Retain the initiative <br />
+        2. Take advantage of unexpected success <br />
+        3. Counter tactical reserves that threaten the integrity of the friendly
+        forces' operations.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define uncommitted force.</header>
+      <p class="answer">
+        A force that is not in contact with the enemy and is not already
+        deployed on a specific mission or course of action.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is the company team?</header>
+      <p class="answer">
+        A combined arms organization formed by attaching one or more non-organic
+        armor mechanized infantry striker or infantry platoons to an armor
+        mechanized infantry striker or infantry company either in exchange for
+        or in addition to its organic platoons.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is the main purpose of the offense?</header>
+      <p class="answer">To defeat, destroy, or neutralize the enemy force.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is the meaning of audacity?</header>
+      <p class="answer">Boldly executing a simple plan of action.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What does concentration mean?</header>
+      <p class="answer">
+        The massing of overwhelming effects of combat power to achieve a single
+        purpose.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is exploitation?</header>
+      <p class="answer">
+        An offensive task that usually follows the conduct of a successful
+        attack and is designed to disorganize the enemy in depth.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is an axis of advance?</header>
+      <p class="answer">
+        It designates the general area through which the bulk of a unit's combat
+        power must move.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define limit of advance.</header>
+      <p class="answer">
+        A phase line used to control forward progress of the attack.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is the point of departure?</header>
+      <p class="answer">
+        The point where the unit crosses the line of departure and begins moving
+        alongside the direction of attack.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define combat formation.</header>
+      <p class="answer">
+        An ordered arrangement of forces for a specific purpose and describes
+        the general configuration of a unit on the ground.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a retrograde?</header>
+      <p class="answer">
+        A defensive task that involves organized movement away from the enemy.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Name five forms of reconnaissance.</header>
+      <p class="answer">
+        1. Route reconnaissance <br />
+        2. Zone reconnaissance <br />
+        3. Area reconnaissance <br />
+        4. Reconnaissance in force <br />
+        5. Special reconnaissance
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define zone reconnaissance.</header>
+      <p class="answer">
+        A form of reconnaissance that involves a directed effort to obtain
+        detailed information on all routes, obstacles, terrains and enemy forces
+        within a zone defined by boundaries.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define route reconnaissance.</header>
+      <p class="answer">
+        A directed effort to obtain detailed information of a specified route
+        and all terrain from which the enemy can influence movement along that
+        route. Define area reconnaissance, a form of reconnaissance that focuses
+        on detailing information about the terrain or enemy activity within a
+        prescribed area.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define risk reconnaissance in force.</header>
+      <p class="answer">
+        A deliberate combat operation designed to discover or test the enemy's
+        strength, dispositions and reactions or to obtain other information.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define special reconnaissance.</header>
+      <p class="answer">
+        Actions conducted as a special operation in hostile denied or
+        politically sensitive environments to collect or verify information of
+        strategic or operational significance employing military capabilities
+        not normally found in conventional forces.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">
+        What are the five tasks of security operations?
+      </header>
+      <p class="answer">
+        1. Screen <br />
+        2. Guard <br />
+        3. Cover <br />
+        4. Area security <br />
+        5. Local security
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define approach march.</header>
+      <p class="answer">
+        The advance of a combat unit intended to achieve direct contact with the
+        enemy.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a breakout?</header>
+      <p class="answer">
+        An operation conducted by an uncircled force to regain freedom of
+        movement or contact with friendly units.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What does AA stand for?</header>
+      <p class="answer">Assembly area.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What function does S1/G1 perform?</header>
+      <p class="answer">Personnel.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What function does S2/G2 perform?</header>
+      <p class="answer">Intelligence.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What function does the S3/G3 perform?</header>
+      <p class="answer">Operations.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What function does the S4/G4 perform?</header>
+      <p class="answer">Logistics.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define alternate position.</header>
+      <p class="answer">
+        A defensive position that the commander assigns to a unit or weapon
+        system for occupation when the primary position becomes untenable or
+        unsuitable for carrying out the assigned task.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define area defense.</header>
+      <p class="answer">
+        A defensive task that concentrates on denying enemy forces access to
+        designated terrain for a specific time rather than destroying the enemy
+        outright.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define assault position.</header>
+      <p class="answer">
+        A covered and concealed position short of the objective from which final
+        preparations are made to assault the object.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define assault time.</header>
+      <p class="answer">
+        The movement to attack the initial objectives throughout the
+        geographical scope of the operation.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define battle positions.</header>
+      <p class="answer">
+        A defensive location oriented on a likely enemy avenue of approach.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define counter mobility operations.</header>
+      <p class="answer">
+        Those combine arms activities that use or enhance the effects of natural
+        and man-made obstacles to deny an adversary freedom of movement and
+        maneuver.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define final coordination line.</header>
+      <p class="answer">
+        A phase line close to the enemy position used to coordinate this lifting
+        or shifting of supporting fires with the final deployment of maneuver
+        elements.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define local security.</header>
+      <p class="answer">
+        A security task that includes low-level security activities conducted
+        near a unit to prevent surprise by the enemy.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define primary position.</header>
+      <p class="answer">
+        The position that covers the enemy's most likely avenue of approach in
+        the areas of operation.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define subsequent position.</header>
+      <p class="answer">
+        A position that a unit expects to move to during the course of battle.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define withdrawal operation.</header>
+      <p class="answer">
+        A planned retrograde operation in which a force in contact disengages
+        with an enemy force and moves in a direction away from the enemy.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Name the basic tactical concepts.</header>
+      <p class="answer">
+        1. Area of operation <br />
+        2. Combined arms <br />
+        3. Concept of operations <br />
+        4. Decisive engagements <br />
+        5. Defeat in detail <br />
+        6. Flanks <br />
+        7. Maneuver <br />
+        8. Operation <br />
+        9. Operational framework <br />
+        10. Piecemeal commitment <br />
+        11. Reconstitution <br />
+        12. Reserve <br />
+        13. Rules of engagement <br />
+        14. Tactical mobility <br />
+        15. Uncommitted forces
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is an area of influence?</header>
+      <p class="answer">
+        A geographical area where a commander is directly capable of influencing
+        operations by maneuver of fire support systems normally under the
+        commander's command or control.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is piecemeal commitment?</header>
+      <p class="answer">
+        The immediate employment of units in combat as they become available
+        instead of waiting for larger aggregations of units to ensure mass or
+        the synchronized employment of available forces so that their combined
+        power is not employed effectively.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a committed force?</header>
+      <p class="answer">
+        A force that is in contact with an enemy or deployed in a specific
+        mission or course of action which precludes its employment elsewhere.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">
+        Name six primary tasks of mobility operations.
+      </header>
+      <p class="answer">
+        1. Breaching operations <br />
+        2. Clearing operations <br />
+        3. Gap crossing operations <br />
+        4. Combat roads and trails <br />
+        5. Forward airfields and landing zones <br />
+        6. Traffic operations
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a striking force?</header>
+      <p class="answer">
+        A dedicated counter-attack force in a mobile defense constituted with a
+        bulk of available combat power.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">
+        What is the seven fundamentals of successful reconnaissance operations?
+        1. Ensure continuous reconnaissance <br />
+        2. Do not keep reconnaissance assets in reserve <br />
+        3. Orient on the reconnaissance objectives <br />
+        4. Report information rapidly and accurately <br />
+        5. Retain freedom of maneuver <br />
+        6. Gain and maintain enemy contact <br />
+        7. Develop the situation rapidly
+      </header>
+      <p class="answer"></p>
+    </section>
+
+    <section class="content">
+      <header class="question">What does ALO stand for?</header>
+      <p class="answer">Air Liaison Officer.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What does CFL stand for?</header>
+      <p class="answer">Coordinated fire line.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What does FCL stand for?</header>
+      <p class="answer">Final coordination line.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is the FEBA?</header>
+      <p class="answer">The forward edge of the battle area.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What function does the S9/G9 perform?</header>
+      <p class="answer">Civil affairs operations.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">What does TACP stand for?</header>
+      <p class="answer">Tactical air control party.</p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define axis of advance.</header>
+      <p class="answer">
+        The general area through which the bulk of units come at power must
+        move.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is the detachments?</header>
+      <p class="answer">
+        A tactical element organized on either a temporary or permanent basis
+        for special duties.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define disengagement line.</header>
+      <p class="answer">
+        A phase line located on identifiable terrain that will cross by the
+        enemy signals to the defending elements that it is time to displace to
+        their next positions.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define mobile defense.</header>
+      <p class="answer">
+        A defensive task that concentrates on the destruction or defeat of the
+        enemy that it threw a decisive attack by striking force.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define pursuit.</header>
+      <p class="answer">
+        An offensive task designed to catch or cut off a hostile force
+        attempting to escape with the aim of destroying it.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define rearward passage of lines.</header>
+      <p class="answer">
+        Occurs when a unit passes through another unit's positions while moving
+        away from the enemy.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define relief in place.</header>
+      <p class="answer">
+        An operation in which by the direction of higher authority all or part
+        of a unit is replaced in an area of operations by the incoming unit.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">Define retirement.</header>
+      <p class="answer">
+        A form of retrograde in which the force or contact moves away from the
+        enemy.
+      </p>
+    </section>
+
+    <section class="content">
+      <header class="question">What is a screen?</header>
+      <p class="answer">
+        A security task that primarily provides early warning to the protected
+        force.
+      </p>
+    </section>
+  </body>
+</html>
